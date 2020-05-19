@@ -1,6 +1,6 @@
 #include "Arduino.h"
-#include "DHT.h"
-#include "LiquidCrystal_PCF8574.h"
+#include "librarieDHT.h"
+#include "librarieLCD.h"
 
 #define DHT_PIN_DATA	2
 
